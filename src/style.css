@@ -1,0 +1,59 @@
+.header {
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  color: #fff;
+}
+
+.city {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.results {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5px;
+  width: 90px;
+  height: 150px;
+  background-color: transparent;
+  border: 5px solid #000;
+  color: #000(0, 0, 0);
+  border-radius: 15px;
+  margin: 20px 50px;
+}
+.container > img {
+  width: 70px;
+  height: 70px;
+}
+.day {
+  font-size: 24px;
+}
+.degree {
+  font-size: 24px;
+}
+.footer {
+  margin-top: 300px;
+  font-size: 16px;
+  text-align: center;
+}
+button {
+  background-color: #282c34;
+  border-radius: 7px;
+  color: #fff;
+  margin: 10px;
+}
